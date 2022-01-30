@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Frankie Barr - personal projects, portfolio and ideas
 twitter_username: phantom-waves
 github_username: phantomwaves
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
